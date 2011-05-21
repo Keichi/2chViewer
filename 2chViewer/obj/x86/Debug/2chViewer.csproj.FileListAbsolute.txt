@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2010\Projects\misc.keichi.net\2chViewer\2chViewer\bin\Debug\2chViewer.exe.config
+D:\Documents\Visual Studio 2010\Projects\misc.keichi.net\2chViewer\2chViewer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\misc.keichi.net\2chViewer\2chViewer\obj\x86\Debug\The2chViewer.BbsBrowser.resources
+D:\Documents\Visual Studio 2010\Projects\misc.keichi.net\2chViewer\2chViewer\obj\x86\Debug\The2chViewer.ImageFinder.resources
+D:\Documents\Visual Studio 2010\Projects\misc.keichi.net\2chViewer\2chViewer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\misc.keichi.net\2chViewer\2chViewer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\misc.keichi.net\2chViewer\2chViewer\bin\Debug\2chViewer.exe
+D:\Documents\Visual Studio 2010\Projects\misc.keichi.net\2chViewer\2chViewer\bin\Debug\2chViewer.pdb
+D:\Documents\Visual Studio 2010\Projects\misc.keichi.net\2chViewer\2chViewer\obj\x86\Debug\2chViewer.exe
+D:\Documents\Visual Studio 2010\Projects\misc.keichi.net\2chViewer\2chViewer\obj\x86\Debug\2chViewer.pdb
